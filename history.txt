@@ -1,29 +1,3 @@
-history
-cls
-cd  ProjetoSoftware
-dir
-notepad 
-copy README.md \Documentos
-copy README.md Documentos
-sim
-cd ..\
-co´poy
-copy projetoSoftware
-ren projetoSoftware projetosoftware_backup
-ren projetoSoftware projetosoftware_backup \E \\I \H \C Y
-ren projetoSoftware projetosoftware_backup \E \\I \H \C \ Y
-xcopy projetoSoftware projetoSoftware_backup /E /I /H /C /Y
-DIR
-Doskey /history > history.txt
-cd projetoSoftware
-git init
-git config user.name "Llllggcctrc"
-git config user.email "miguelguilhermeb04@gmail.com"
-git add
-git add .
-git status
-git commit -m "tb marcio 2"
-git remote add origin https://github.com/Llllggcctrc/-ProjetoSoftware.git
-git branch -M main
-git push -u origin main
-Doskey /history > history.txt
+arquivo.txt
+historico.txt
+history.txt
